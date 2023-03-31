@@ -48,7 +48,7 @@ export const Work = [
       "A game based on the popular manga series 'Spy Family', featuring challenging levels",
     tags: ["Html", "Css", "JavaScript"],
 
-    demo: "https://github.com/AaronLai0401/2D_Anya_BreakOut",
-    github: "https://github.com/codebucks27/react-sidebar",
+    demo: "https://aaronlai0401.github.io/2D_Anya_BreakOut/",
+    github: "https://github.com/AaronLai0401/2D_Anya_BreakOut",
   },
 ];
